@@ -1,4 +1,5 @@
-# MCIS6273 - SAU Fall 2025
-Repository for Data Mining coursework
+# MCIS6273 SAU Fall 2025 Data Mining
 
-Zotero username: soujanyachoppala
+This is my repo for MCIS6273 – SAU Fall 2025.
+
+**Zotero username:** soujanyachoppala
